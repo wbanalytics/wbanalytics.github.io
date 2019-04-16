@@ -48,10 +48,10 @@ h3, h4, h5 {
     padding: 14px 20px 14px 25px;
   }
   &.navbar-right > li > a {
-    color: #999c9e;
+    color: #a7b1c2;
   }
   > li.active > a {
-    color: #fff;
+    color: #a7b1c2;
   }
 }
 
@@ -2268,13 +2268,14 @@ body {
         background: #3385FF;
         color: #fff;
       }
+      margin-top: 15px;
       color: #fff;
       height: auto;
       display: block;
-      font-size: 14px;
+      font-size: 12px;
       background: #3385FF;
-      padding: 15px 20px;
-      border-radius: 0 0 5px 5px;
+      padding: 10px;
+      border-radius: 5px;
       font-weight: 700;
       transition: all .3s ease-in-out 0s;
     }
@@ -2539,7 +2540,6 @@ body {
       .navbar {
         padding-right: 0;
         padding-left: 0;
-        border-radius: 4px;
       }
     }
     .carousel-caption p {
