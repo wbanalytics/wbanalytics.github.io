@@ -9,11 +9,11 @@ url: https://wbanalytics.github.io  # url should be 'http://<github_username>.gi
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
-# author -- index page "about me" section
+# author -- index page "about" section
 author:  # change following line to your infomation.
   name: WB Analytics  # Be used at blog posts' author.
-  first_name: WB  # Be used at index page about me section.
-  last_name: Analytics  # Be used at index page about me section.
+  first_name: WB  # Be used at index page about section.
+  last_name: Analytics  # Be used at index page about section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: wbanalytics  # Leave blank if you don't have now
   linkedin_id: wb-games # Leave blank if you don't have now
