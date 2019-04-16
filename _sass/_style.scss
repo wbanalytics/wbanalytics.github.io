@@ -1169,50 +1169,6 @@ label.error {
   }
 }
 
-@media only screen and (min-width: 1170px) {
-  .center-orientation {
-    .vertical-timeline-content {
-      margin-left: 0;
-      padding: 1.6em;
-      width: 45%;
-      &::before {
-        top: 24px;
-        left: 100%;
-        border-color: #fff;
-      }
-      .btn {
-        float: left;
-      }
-    }
-    .vertical-timeline-block:nth-child(even) .vertical-timeline-content {
-      float: right;
-      .btn {
-        float: right;
-      }
-    }
-    .vertical-timeline-content .vertical-date {
-      position: absolute;
-      width: 100%;
-      left: 122%;
-      top: 2px;
-      font-size: 14px;
-    }
-    .vertical-timeline-block:nth-child(even) .vertical-timeline-content {
-      &::before {
-        top: 24px;
-        left: auto;
-        right: 100%;
-        border-color: transparent #fff transparent transparent;
-      }
-      .vertical-date {
-        left: auto;
-        right: 122%;
-        text-align: right;
-      }
-    }
-  }
-}
-
 .slick-next:before, .slick-prev:before {
   color: #3385FF !important;
 }
@@ -2403,8 +2359,8 @@ body {
       border-color: #fff;
       padding: 15px 0;
     }
-    background-color: transparent;
-    border-color: transparent;
+    background-color: #fff;
+    border-color: #fff;
     transition: all .3s ease-in-out 0s;
     .nav li a {
       color: #fff;
@@ -2417,7 +2373,7 @@ body {
   }
   .navbar-nav > li > a {
     padding-top: 25px;
-    border-top: 6px solid transparent;
+    border-top: 6px solid #fff;
   }
   .navbar-default {
     .navbar-nav > {
