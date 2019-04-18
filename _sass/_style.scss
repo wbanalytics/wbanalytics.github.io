@@ -2235,7 +2235,7 @@ body {
     }
   }
   .navbar-nav > li > a {
-    padding-top: 15px;
+    padding-top: 10px;
     border-top: 6px solid #fff;
   }
   .navbar-default {
@@ -2267,8 +2267,7 @@ body {
     }
     .navbar-brand {
       &:focus, &:hover {
-        //background: #3385FF;
-        background-image: url(//static/assets/img/landing/WBA_logo.png);
+        background: #3385FF;
         color: #fff;
       }
       margin-top: 15px;
