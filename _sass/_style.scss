@@ -2474,8 +2474,8 @@ body {
     background-color: #3385FF;
     background-image: url(//static/assets/img/landing/activities_backdrop.jpg);
     background-position: center top;
-    background-attachment: scroll;
-    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-repeat:repeat;
   }
   .contact {
     background-image: url(../assets/img/landing/word_map.png);
