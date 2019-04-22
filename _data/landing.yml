@@ -14,7 +14,7 @@
 
 - id: recent-updates
   i18n: nav.recent_updates
-  name: Updates
+  name: Recent Updates
   tpl: recent-updates.html
   page: recent-updates/
   css: testimonials navy-section
