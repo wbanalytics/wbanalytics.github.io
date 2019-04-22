@@ -40,7 +40,7 @@
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li><a class="page-scroll" href="{{ "recent-updates/" | prepend: site.baseurl }}">{{ site.index.home }}</a></li>
-                    {% for tag in site.data.recent-updates %}
+                    {% for tag in site.data.recent_updates %}
                         {% if tag.name != 'Donate' or site.donation %}
                         {% if page.title == tag.name %}
                         <li class="active">
