@@ -6,7 +6,7 @@
     "home": "Home",
     "about_me": "About",
     "roles": "Roles",
-    "blog": "Blog",
+    "recent_updates": "Recent Updates",
     "link": "Link"
   },
   "about_me":{
@@ -14,10 +14,10 @@
     "des": "I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
   },
   "roles":{
-    "my_roles": "Open Roles",
+    "my_roles": "Open Roles"
   },
-  "blog":{
-    "my_blog": "Recent Activities"
+  "recent_updates":{
+    "recent_updates": "Recent Updates"
   },
   "link":{
     "link": "Link",

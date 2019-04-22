@@ -24,9 +24,9 @@ module.exports = {
             'static/js/localization.js'
         ]
     }, {
-        name: 'blog pages',
+        name: 'recent_updates pages',
         quotefile: '_includes/head.html',
-        prefix: 'blog-',
+        prefix: 'recent_updates-',
         type: 'js',
         list: [
             'node_modules/metismenu/dist/metisMenu.js',

@@ -6,7 +6,7 @@
     "home": "Home",
     "about_me": "About",
     "roles": "Roles",
-    "blog": "Blog",
+    "recent_updates": "recent_updates",
     "link": "Link"
   },
   "about_me":{
@@ -16,8 +16,8 @@
   "roles":{
     "my_roles": "Open Roles"
   },
-  "blog":{
-    "my_blog": "Recent Activities"
+  "recent_updates":{
+    "recent_updates": "Recent Updates"
   },
   "link":{
     "link": "Link",

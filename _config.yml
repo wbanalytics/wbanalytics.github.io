@@ -7,11 +7,11 @@ keywords:
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://wbanalytics.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: /static/assets/img/recent-updates  # url should be '/homepage/static/assets/img/recent-updates' as before
 
 # author -- index page "about" section
 author:  # change following line to your infomation.
-  name: WB Analytics  # Be used at blog posts' author.
+  name: WB Analytics  # Be used at recent supdates posts' author.
   first_name: WB  # Be used at index page about section.
   last_name: Analytics  # Be used at index page about section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
@@ -37,7 +37,7 @@ disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your c
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  id: UA-135039915-1
+  id: UA-135039915-3
 
 ## google optimize
 go:
@@ -49,7 +49,7 @@ gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your 
 
 ## carousels
 index_carousel: on  # index page carousel switch
-blog_carousel: on  # blog page carousel switch
+recent_updates_carousel: on  # updates page carousel switch
 
 # scss
 sass:
