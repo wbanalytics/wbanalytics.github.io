@@ -5,8 +5,8 @@
     <description>WB Analytics career website</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Apr 2019 13:31:48 -0400</pubDate>
-    <lastBuildDate>Tue, 16 Apr 2019 13:31:48 -0400</lastBuildDate>
+    <pubDate>Mon, 22 Apr 2019 15:28:04 -0400</pubDate>
+    <lastBuildDate>Mon, 22 Apr 2019 15:28:04 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -62,8 +62,8 @@ say_hello()   // &quot;hello world!&quot;
   &lt;li&gt;
     &lt;p&gt;Fork &lt;a href=&quot;https://github.com/jarrekk/Jalpc&quot;&gt;this project – Jalpc&lt;/a&gt; at &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;. If you want to edit website at github, do it as following gif or clone forked repository. &lt;code class=&quot;highlighter-rouge&quot;&gt;git clone git@github.com:github_username/Jalpc.git&lt;/code&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;!-- ![edit](/static/assets/img/blog/3steps/edit.gif) --&gt;
- &lt;img src=&quot;/static/assets/img/blog/3steps/edit.gif&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;!-- ![edit](/static/assets/img/recent-updates/3steps/edit.gif) --&gt;
+ &lt;img src=&quot;/static/assets/img/recent-updates/3steps/edit.gif&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Enter into repository directory and edit following file list:&lt;/p&gt;

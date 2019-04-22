@@ -15,19 +15,11 @@
     </url>
 
     <url>
-        <loc>http://localhost:4000/blog/</loc>
-    </url>
-
-    <url>
         <loc>http://localhost:4000/static/css/custom.css</loc>
     </url>
 
     <url>
         <loc>http://localhost:4000/database/</loc>
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/donate/</loc>
     </url>
 
     <url>
@@ -56,6 +48,10 @@
 
     <url>
         <loc>http://localhost:4000/python/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/recent-updates/</loc>
     </url>
 
     <url>
