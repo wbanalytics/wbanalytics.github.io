@@ -25,9 +25,9 @@
         }
 
         .collapsible:after {
-            content: '\02795'; /* Unicode character for "plus" sign (+) */
             font-size: 15px;
             color: white;
+            content: '\02795'; /* Unicode character for "plus" sign (+) */
             float: right;
             margin-left: 5px;
         }
@@ -112,15 +112,15 @@
             <div class="collapsed-content">
                 <p>
                     Our WBA team has openings worldwide, as well as embedded positions at each studio.  Many positions have flexible location options.
-                    <br><br>
+                    <br>
                 </p>
             </div>
 
             <br><br>
 
-            <h3>What makes WB Analytics different?</h3>
-            <p>
-                <span data-i18n="about_me.des">       
+            <button class="collapsible">What makes WB Analytics different?</button>
+            <div class="collapsed-content">
+                <p>     
                     <b>Self Advancement & Promotion</b>
                     <br>
                     WBA is very supportive of both personal enrichment, through training and conferences, as well as supporting personal promotion, through sponsored speaking engagements.
@@ -141,13 +141,11 @@
                     <b>Flexible work arrangements</b>
                     <br>
                     We want to support you, and that starts with providing an environment where you can do your best work.  We have a very flexible “work from home” policy, and if life changes for you down the line, we support remote work for many situations.
-                </span>
-            </p>
+                </p>
+            </div>
         </div>
     </div>
 </div>
-
-            display: none;
 
 <script>
     var coll = document.getElementsByClassName("collapsible");
