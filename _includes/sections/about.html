@@ -1,7 +1,26 @@
 <head>
     <style>
-        h4 {
-            color: #676a6c;
+        .collapsible {
+            background-color: #3385FF;
+            color: white;
+            cursor: pointer;
+            padding: 18px;
+            font-size: 20px;
+            width: 100%;
+            border: none;
+            text-align: left;
+            outline: none;
+        }
+
+        .active, .collapsible:hover {
+            background-color: #286dd3;
+        }
+
+        .collapsed-content {
+            background-color: transparent;
+            padding: 0 18px;
+            overflow: hidden;
+            display: none;
         }
     </style>
 </head>
@@ -76,13 +95,14 @@
                 <br><br>
             </p>
 
-            <h3>Where we are</h3>
-            <p>
-                <span data-i18n="about_me.des">
+            <button class="collapsible">Where we are</button>
+            <div class="collapsed-content">
+                <p>
                     Our WBA team has openings worldwide, as well as embedded positions at each studio.  Many positions have flexible location options.
                     <br><br>
-                </span>
-            </p>
+                </p>
+            </div>
+
                      
             <h3>What makes WB Analytics different?</h3>
             <p>
