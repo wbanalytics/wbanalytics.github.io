@@ -1,5 +1,71 @@
 <head>
     <style>
+        input[type='checkbox'] {
+            display: none;
+        }
+
+        .lbl-toggle {
+            display: block;
+
+            font-size: 15px;
+            text-align: left;
+            padding: 15px;
+            color: white;
+            background: #3385FF;
+
+            cursor: pointer;
+            transition: all 0.25s ease-out;
+        }
+
+        .lbl-toggle:hover {
+            background-color: #286dd3;
+            color: white;
+        }
+
+        .lbl-toggle::before {
+            content: ' ';
+            display: inline-block;
+
+            border-top: 5px solid transparent;
+            border-bottom: 5px solid transparent;
+            border-left: 5px solid currentColor;
+
+            vertical-align: middle;
+            margin-right: .7rem;
+            transform: translateY(-2px);
+
+            transition: transform .2s ease-out;
+        }
+
+        .collapsible-content .content-inner {
+            background: transparent;
+            padding: 5px 15px;
+        }
+
+        .collapsible-content {
+            max-height: 0px;
+            overflow: hidden;
+
+            transition: max-height .25s ease-in-out;
+        }
+
+        .toggle:checked + .lbl-toggle + .collapsible-content {
+            max-height: 350px;
+        }
+
+        .toggle:checked + .lbl-toggle::before {
+            transform: rotate(90deg) translateX(-3px);
+        }
+
+        .toggle:checked + .lbl-toggle {
+            border-bottom-right-radius: 0;
+            border-bottom-left-radius: 0;
+        }
+
+
+
+
+
         .collapsible {
             background-color: #3385FF;
             color: white;
@@ -110,13 +176,20 @@
                 <br><br>
             </p>
 
-            <button class="collapsible">Where we are</button>
-            <div class="collapsed-content">
-                <p>
-                    Our WBA team has openings worldwide, as well as embedded positions at each studio.  Many positions have flexible location options.
-                    <br>
-                </p>
-            </div>
+
+
+            <div class="wrap-collabsible">
+                    <input id="collapsible" class="toggle" type="checkbox">
+                    <label for="collapsible" class="lbl-toggle" tabindex="0">Where we are</label>
+                    <div class="collapsible-content">
+                      <div class="content-inner">
+                        <p>
+                            Our WBA team has openings worldwide, as well as embedded positions at each studio.  Many positions have flexible location options.
+                            <br>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
 
             <br><br>
 
@@ -164,4 +237,19 @@
             } 
         });
     }
+
+
+
+    let myLabels = document.querySelectorAll('.lbl-toggle');
+
+    Array.from(myLabels).forEach(label => {
+        label.addEventListener('keydown', e => {
+        // 32 === spacebar
+        // 13 === enter
+            if (e.which === 32 || e.which === 13) {
+                e.preventDefault();
+                label.click();
+            };
+        });
+    });
 </script>
