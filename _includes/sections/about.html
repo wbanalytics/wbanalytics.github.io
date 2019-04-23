@@ -4,8 +4,8 @@
             background-color: #3385FF;
             color: white;
             cursor: pointer;
-            padding: 18px;
-            font-size: 20px;
+            padding: 15px;
+            font-size: 18px;
             width: 100%;
             border: none;
             text-align: left;
@@ -18,9 +18,22 @@
 
         .collapsed-content {
             background-color: transparent;
-            padding: 0 18px;
+            padding: 0 15px;
             overflow: hidden;
-            display: none;
+            max-height: 0;
+            transition: max-height 0.2s ease-out;
+        }
+
+        .collapsible:after {
+            content: '\02795'; /* Unicode character for "plus" sign (+) */
+            font-size: 15px;
+            color: white;
+            float: right;
+            margin-left: 5px;
+        }
+
+        .active:after {
+            content: "\2796"; /* Unicode character for "minus" sign (-) */
         }
     </style>
 </head>
@@ -144,11 +157,11 @@
         coll[i].addEventListener("click", function() {
             this.classList.toggle("active");
             var content = this.nextElementSibling;
-            if (content.style.display === "block") {
-                content.style.display = "none";
+            if (content.style.maxHeight){
+                content.style.maxHeight = null;
             } else {
-                content.style.display = "block";
-            }
+                content.style.maxHeight = content.scrollHeight + "px";
+            } 
         });
     }
 </script>
