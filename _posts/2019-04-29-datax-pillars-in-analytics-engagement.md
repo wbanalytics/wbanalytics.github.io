@@ -9,7 +9,7 @@ tags: [DataX,Gaming Analytics]
 icon: icon-html
 ---
 
-<img src="{{ site.img_path }}/datax/andrei-headshot.jpg" width="50%" display="block">
+<img src="{{ site.img_path }}/datax/andrei-headshot.jpg" width="30%" display="block">
 
 
 Data collection and analysis skills are easily accessible, but their effective application to decision-making – and the identification of decisions that merit the effort – are still very much up to the personalities involved. This session attempts to build a framework within which an analytics team can integrate closely with the dev team and work as one coherent, effective unit.
