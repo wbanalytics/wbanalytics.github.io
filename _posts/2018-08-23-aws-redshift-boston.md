@@ -10,7 +10,8 @@ icon: icon-html
 ---
 
 <img src="{{ site.img_path }}/redshift/web-redshift_days.jpg" width="50%" display="block">
-<br>
+
+
 WB Analytics will provide an overview of their journey towards adopting AWS Redshift. Batch vs real-time? Cloud vs on-premise warehouse? Columnar vs Row store? Key architectural considerations will be discussed.
 
 Read more [here](https://aws.amazon.com/events/).
