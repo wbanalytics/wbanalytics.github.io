@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Apachecon 2017 – Evolution of an Apache Spark Architecture for Processing Game Data"
-date:   2017-05-17
+title:  "code snippet test"
+date:   2017-12-21
 desc: "Quick test on writing code snippets in a blog post"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
 categories: [HTML]
