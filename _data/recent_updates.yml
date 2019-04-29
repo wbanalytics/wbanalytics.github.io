@@ -4,10 +4,10 @@
 
 # edit following lines to custom your updates page, make sure name is the same as href but capitalized first letter(except HTML)
 - name: Data Platform
-  href: /data-platform/
+  href: /data%20platform/
 
 - name: Publishing Analytics
-  href: /publishing-analytics/
+  href: /publishing%20analytics/
 
 - name: Gaming Analytics
-  href: /gaming-analytics/
+  href: /gaming%20analytics/
