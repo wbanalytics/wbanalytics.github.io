@@ -9,7 +9,7 @@ tags: [AWS]
 icon: icon-html
 ---
 
-<img src="{{ site.img_path }}/reinvent/web-reinvent.jpg" width="50%" display="block">
+<img src="{{ site.img_path }}/reinvent/web-reinvent.JPG" width="50%" display="block">
 
 
 In partnership with the AWS Redshift management team, come hear about the benefits of new AWS Redshift and Redshift Spectrum preview features.  We will share benchmarks, and architectural opportunities for teams work with Redshift at scale.
