@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Looker Join Conference"
-date:   2018-11-28
+date:   2018-10-10
 desc: ""
 keywords: "Looker"
 categories: [Data Platform,Publishing Analytics]
