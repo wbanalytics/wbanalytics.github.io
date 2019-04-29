@@ -4,8 +4,8 @@ title:  "AWS Redshift Days Boston"
 date:   2018-08-23
 desc: ""
 keywords: "AWS,Redshift"
-categories: []
-tags: [AWS,Redshift]
+categories: [Data Platform]
+tags: [AWS,Redshift,Data Platform]
 icon: icon-html
 ---
 

@@ -4,8 +4,8 @@ title:  "AWS re:Invent 2018 - Extending Analytics Beyond the Data Warehouse, ft.
 date:   2018-11-28
 desc: ""
 keywords: "AWS,re:Invent"
-categories: []
-tags: [AWS]
+categories: [Data Platform]
+tags: [AWS,Data Platform]
 icon: icon-html
 ---
 
