@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DataX - Pillars is Analytics Engagement"
+title:  "DataX - Pillars in Analytics Engagement"
 date:   2019-04-29
 desc: ""
 keywords: "Spark"
