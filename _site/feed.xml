@@ -5,109 +5,99 @@
     <description>WB Analytics career website</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Apr 2019 15:28:04 -0400</pubDate>
-    <lastBuildDate>Mon, 22 Apr 2019 15:28:04 -0400</lastBuildDate>
+    <pubDate>Mon, 29 Apr 2019 16:16:19 -0400</pubDate>
+    <lastBuildDate>Mon, 29 Apr 2019 16:16:19 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>code snippet test</title>
-        <description>&lt;p&gt;This is a raw snippet:&lt;/p&gt;
+        <title>AWS re:Invent 2018 - Extending Analytics Beyond the Data Warehouse, ft. Warner Bros. Analytics (ANT301)</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/static/assets/img/recent-updates/reinvent/web-reinvent.jpg&quot; width=&quot;50%&quot; display=&quot;block&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;hello world
-123
-This is a text snippet
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;In partnership with the AWS Redshift management team, come hear about the benefits of new AWS Redshift and Redshift Spectrum preview features.  We will share benchmarks, and architectural opportunities for teams work with Redshift at scale.&lt;/p&gt;
 
-&lt;p&gt;This is a JavaScript snippet:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;const add = (a, b) =&amp;gt; a + b
-const minus = (a, b) =&amp;gt; a - b
-
-console.log(add(100,200))  // 300
-console.log(minus(100,200))  // -100
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;This is a Python snippet:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;def say_hello():
-    print(&quot;hello world!&quot;)
-
-say_hello()   // &quot;hello world!&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Side note comment: applied a bug fix similar to &lt;a href=&quot;https://github.com/Atlas7/atlas7.github.io/commit/6659f4a47f6ec66987adb0f683a9c6f3842252ae#diff-818954a41dbfb01af70050a459c603b9&quot;&gt;this commit&lt;/a&gt; to ensure code snippet does not collapse unexpectly upon clicking on it. This issue is tracked &lt;a href=&quot;https://github.com/jarrekk/Jalpc/issues/97&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Read more &lt;a href=&quot;https://www.slideshare.net/AmazonWebServices/extending-analytics-beyond-the-data-warehouse-ft-warner-bros-analytics-ant301-aws-reinvent-2018&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 21 Dec 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000//html/2017/12/21/test-code-snippets.html</link>
-        <guid isPermaLink="true">http://localhost:4000//html/2017/12/21/test-code-snippets.html</guid>
+        <pubDate>Wed, 28 Nov 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//data%20platform/2018/11/28/reinvent-extending-analytics.html</link>
+        <guid isPermaLink="true">http://localhost:4000//data%20platform/2018/11/28/reinvent-extending-analytics.html</guid>
         
-        <category>Jalpc</category>
+        <category>AWS</category>
         
-        <category>Jekyll</category>
+        <category>Data Platform</category>
         
         
-        <category>HTML</category>
+        <category>Data Platform</category>
         
       </item>
     
       <item>
-        <title>3 Steps (2 minutes) to Setup Your Personal Website with Jalpc</title>
-        <description>&lt;p&gt;Everyone wants to have a personal website, you can display your infomation to public, post blogs and make friends. If you are CS engineer, haveing a self website will benefit your interview.&lt;/p&gt;
+        <title>Looker Join Conference</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/static/assets/img/recent-updates/looker/web-looker_join.jpg&quot; width=&quot;50%&quot; display=&quot;block&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;So, if you like this website &lt;a href=&quot;https://jarrekk.github.io/Jalpc/&quot;&gt;https://jarrekk.github.io/Jalpc/&lt;/a&gt; or &lt;a href=&quot;http://www.jarrekk.com&quot;&gt;http://www.jarrekk.com&lt;/a&gt; and are willing to have a website, here is a way to build your website in 3 steps(2 minutes). Following are steps to setup your website(make sure you have basic knowledge of &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;, if you want to custom css/js &lt;a href=&quot;https://github.com/npm/npm&quot;&gt;NPM&lt;/a&gt; is needed):&lt;/p&gt;
+&lt;p&gt;Stop by our session to hear about how we use Looker and AWS Redshift together to support our game designers with “speed of thought” insights.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Fork &lt;a href=&quot;https://github.com/jarrekk/Jalpc&quot;&gt;this project – Jalpc&lt;/a&gt; at &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;. If you want to edit website at github, do it as following gif or clone forked repository. &lt;code class=&quot;highlighter-rouge&quot;&gt;git clone git@github.com:github_username/Jalpc.git&lt;/code&gt;.&lt;/p&gt;
-
-    &lt;p&gt;&lt;!-- ![edit](/static/assets/img/recent-updates/3steps/edit.gif) --&gt;
- &lt;img src=&quot;/static/assets/img/recent-updates/3steps/edit.gif&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Enter into repository directory and edit following file list:&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;strong&gt;_config.yml&lt;/strong&gt;: edit ‘Website settings’, ‘author’, ‘comment’ and ‘analytics’ items.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;strong&gt;_data/landing.yml&lt;/strong&gt;: custom sections of index page.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;strong&gt;_data/index/&lt;/strong&gt;: edit sections’ data to yours at index page, please notice comment at each file.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;strong&gt;_data/blog.yml&lt;/strong&gt;: edit navbar(categories) of blog page, if you have different/more blog page, copy &lt;code class=&quot;highlighter-rouge&quot;&gt;blog/python.html&lt;/code&gt; and change it to your category HTML file, and edit &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;/python/&lt;/strong&gt; to your category name at items &lt;strong&gt;title&lt;/strong&gt; and &lt;strong&gt;permalink&lt;/strong&gt;, make sure title is the same as permalink but capitalized first letter(except HTML).&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;strong&gt;CNAME&lt;/strong&gt;: If you wanna release website at your own domain name: edit it and create &lt;code class=&quot;highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt; branch; if you want to use &lt;em&gt;github_username.github.io&lt;/em&gt;: leave it blank.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Go to repo’s settings panel, config &lt;strong&gt;GitHub Pages&lt;/strong&gt; section to make sure website is released.&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Push changes to your github repository and view your website, done!&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;From now on, you can post your blog to this website by creating md files at &lt;code class=&quot;highlighter-rouge&quot;&gt;post/&lt;/code&gt; directory and push it to GitHub, you can clear files at this directory before you post blogs.&lt;/p&gt;
-
-&lt;p&gt;If you like this repository, I appreciate you star this repository. Please don’t hesitate to mail me or post issues on GitHub if you have any questions. Hope you have a happy blog time!😊&lt;/p&gt;
+&lt;p&gt;Read more &lt;a href=&quot;https://join2018.splashthat.com/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 31 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000//html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</link>
-        <guid isPermaLink="true">http://localhost:4000//html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</guid>
+        <pubDate>Wed, 10 Oct 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000//data%20platform/publishing%20analytics/2018/10/10/looker-join-conference.html</link>
+        <guid isPermaLink="true">http://localhost:4000//data%20platform/publishing%20analytics/2018/10/10/looker-join-conference.html</guid>
         
-        <category>Jalpc</category>
+        <category>Looker</category>
         
-        <category>Jekyll</category>
+        <category>Data Platform</category>
+        
+        <category>Publishing Analytics</category>
         
         
-        <category>HTML</category>
+        <category>Data Platform</category>
+        
+        <category>Publishing Analytics</category>
+        
+      </item>
+    
+      <item>
+        <title>AWS Redshift Days Boston</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/static/assets/img/recent-updates/redshift/web-redshift_days.jpg&quot; width=&quot;50%&quot; display=&quot;block&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;WB Analytics will provide an overview of their journey towards adopting AWS Redshift. Batch vs real-time? Cloud vs on-premise warehouse? Columnar vs Row store? Key architectural considerations will be discussed.&lt;/p&gt;
+
+&lt;p&gt;Read more &lt;a href=&quot;https://aws.amazon.com/events/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Aug 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000//data%20platform/2018/08/23/aws-redshift-boston.html</link>
+        <guid isPermaLink="true">http://localhost:4000//data%20platform/2018/08/23/aws-redshift-boston.html</guid>
+        
+        <category>AWS</category>
+        
+        <category>Redshift</category>
+        
+        <category>Data Platform</category>
+        
+        
+        <category>Data Platform</category>
+        
+      </item>
+    
+      <item>
+        <title>Apachecon 2017 – Evolution of an Apache Spark Architecture for Processing Game Data</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/static/assets/img/recent-updates/apachecon/apachecon-logowfeather459x459.png&quot; width=&quot;50%&quot; display=&quot;block&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Apache Spark Streaming is a powerful component for enabling real-time insights.  However, how do analytical warehouses keep up with a micro-batch feed at scale?  WB Analytics will share our architecture for tuning event ingestion, through Spark Streaming, to AWS Redshift, to provide near real-time insights.&lt;/p&gt;
+
+&lt;p&gt;Read more &lt;a href=&quot;https://apachebigdata2017.sched.com/event/9zzA/evolution-of-an-apache-spark-architecture-for-processing-game-data-nick-afshartous-warner-brothers-interactive-entertainment-wbie&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 May 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000//data%20platform/2017/05/17/apachecon-2017.html</link>
+        <guid isPermaLink="true">http://localhost:4000//data%20platform/2017/05/17/apachecon-2017.html</guid>
+        
+        <category>Apache</category>
+        
+        <category>Spark</category>
+        
+        <category>Data Platform</category>
+        
+        
+        <category>Data Platform</category>
         
       </item>
     

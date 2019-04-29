@@ -3,16 +3,32 @@
     "data" : [
      
     {
-        "title" : "code snippet test - 2017-12-21",
-        "url" : "//html/2017/12/21/test-code-snippets.html"
+        "title" : "AWS re:Invent 2018 - Extending Analytics Beyond the Data Warehouse, ft. Warner Bros. Analytics (ANT301) - 2018-11-28",
+        "url" : "//data%20platform/2018/11/28/reinvent-extending-analytics.html"
     }
     
     ,
     
     
     {
-        "title" : "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc - 2017-01-31",
-        "url" : "//html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html"
+        "title" : "Looker Join Conference - 2018-10-10",
+        "url" : "//data%20platform/publishing%20analytics/2018/10/10/looker-join-conference.html"
+    }
+    
+    ,
+    
+    
+    {
+        "title" : "AWS Redshift Days Boston - 2018-08-23",
+        "url" : "//data%20platform/2018/08/23/aws-redshift-boston.html"
+    }
+    
+    ,
+    
+    
+    {
+        "title" : "Apachecon 2017 – Evolution of an Apache Spark Architecture for Processing Game Data - 2017-05-17",
+        "url" : "//data%20platform/2017/05/17/apachecon-2017.html"
     }
     
     
