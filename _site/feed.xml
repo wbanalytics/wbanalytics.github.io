@@ -5,9 +5,32 @@
     <description>WB Analytics career website</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Apr 2019 16:16:19 -0400</pubDate>
-    <lastBuildDate>Mon, 29 Apr 2019 16:16:19 -0400</lastBuildDate>
+    <pubDate>Mon, 29 Apr 2019 16:38:16 -0400</pubDate>
+    <lastBuildDate>Mon, 29 Apr 2019 16:38:16 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Boston Spark Meet Up</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/static/assets/img/recent-updates/sparkmeetup/web-spark_meetup.jpg&quot; width=&quot;50%&quot; display=&quot;block&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Join the WB Analytics team at the WB Boston Game Studio to see an overview of how our team uses Apache Spark Streaming to support both Mobile and Console games at scale.&lt;/p&gt;
+
+&lt;p&gt;Read more &lt;a href=&quot;https://www.meetup.com/Boston-Apache-Spark-User-Group/events/257173292/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 31 Jan 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//data%20platform/2019/01/31/boston-spark-meet-up.html</link>
+        <guid isPermaLink="true">http://localhost:4000//data%20platform/2019/01/31/boston-spark-meet-up.html</guid>
+        
+        <category>Looker</category>
+        
+        <category>Spark</category>
+        
+        <category>Data Platform</category>
+        
+        
+        <category>Data Platform</category>
+        
+      </item>
     
       <item>
         <title>AWS re:Invent 2018 - Extending Analytics Beyond the Data Warehouse, ft. Warner Bros. Analytics (ANT301)</title>
