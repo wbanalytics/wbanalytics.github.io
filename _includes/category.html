@@ -20,7 +20,7 @@ $(function(){
         {% assign title = url | split: ' ' %}
         {% capture category %} {% for word in title %} {{ word | capitalize }} {% endfor %} {% endcapture %}
         <!-- {% assign category = title | remove:'/' %} -->
-        <h1>{{ category }}</h1>
+        <h1>{{ category | join: " " }}</h1>
     </div>
 </div>
 <div class="wrapper wrapper-content  animated fadeInRight   ">
