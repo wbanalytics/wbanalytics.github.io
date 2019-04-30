@@ -18,8 +18,8 @@ $(function(){
         <div class="navy-line"></div>
         {% assign url = page.url | url_decode | remove:'/' %}
         {% assign title = url | split: ' ' %}
-        {% capture category %}{% for word in title %} {{ word | capitalize | join: ' '}} {% endfor %} {% endcapture %}
-        {% assign category = category}
+        {% capture categoryarray %}{% for word in title %} {{ word | capitalize}} {% endfor %} {% endcapture %}
+        {% assign category = categoryarray | join: ' ' %}
         <h1>{{ category }}</h1>
     </div>
 </div>
