@@ -4,7 +4,7 @@ title:  "DataX - The Intersection of Data and Creativity in Gaming"
 date:   2019-04-29
 desc: ""
 keywords: "DataX"
-categories: [Gaming analytics,Data platform]
+categories: [Gaming Analytics,Data Platform]
 tags: [DataX,Gaming Analytics,Data Platform]
 icon: icon-html
 ---
