@@ -5,13 +5,38 @@
     <description>WB Analytics career website</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Apr 2019 16:52:29 -0400</pubDate>
-    <lastBuildDate>Mon, 29 Apr 2019 16:52:29 -0400</lastBuildDate>
+    <pubDate>Tue, 30 Apr 2019 13:43:37 -0400</pubDate>
+    <lastBuildDate>Tue, 30 Apr 2019 13:43:37 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>DataX - Pillars is Analytics Engagement</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/static/assets/img/recent-updates/datax/andrei-headshot.jpg&quot; width=&quot;50%&quot; display=&quot;block&quot; /&gt;&lt;/p&gt;
+        <title>DataX - Working cross-functionally to bridge the gap between creative and analytical teams</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/static/assets/img/recent-updates/datax/AWS-ReInvent-Badge.png&quot; width=&quot;30%&quot; display=&quot;block&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Analytics is a discipline that relies on managing constraints, while creativity is – by design – an exercise in avoiding constraints. Explore in this session how WB Games has developed a discipline that enables developers, marketers and analysts to work at the speed of creativity.&lt;/p&gt;
+
+&lt;p&gt;Read more &lt;a href=&quot;https://www.theinnovationenterprise.com/summits/gaming-analytics-summit-san-francisco-2019/agenda?_ga=2.210624405.1276306666.1556552659-759658737.1555905947&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Apr 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000//gaming%20analytics/data%20platform/2019/04/29/datax-working-cross-functionally.html</link>
+        <guid isPermaLink="true">http://localhost:4000//gaming%20analytics/data%20platform/2019/04/29/datax-working-cross-functionally.html</guid>
+        
+        <category>DataX</category>
+        
+        <category>Gaming Analytics</category>
+        
+        <category>Data Platform</category>
+        
+        
+        <category>Gaming Analytics</category>
+        
+        <category>Data Platform</category>
+        
+      </item>
+    
+      <item>
+        <title>DataX - Pillars in Analytics Engagement</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/static/assets/img/recent-updates/datax/andrei-headshot.jpg&quot; width=&quot;30%&quot; display=&quot;block&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Data collection and analysis skills are easily accessible, but their effective application to decision-making – and the identification of decisions that merit the effort – are still very much up to the personalities involved. This session attempts to build a framework within which an analytics team can integrate closely with the dev team and work as one coherent, effective unit.&lt;/p&gt;
 
@@ -27,6 +52,31 @@
         
         
         <category>Gaming Analytics</category>
+        
+      </item>
+    
+      <item>
+        <title>DataX - The Intersection of Data and Creativity in Gaming</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/static/assets/img/recent-updates/datax/wba_team-medium.jpg&quot; width=&quot;50%&quot; display=&quot;block&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We sat down with Matt Howell, executive director of analytics at WB Games, about how creativity and data can go hand in hand when it comes to developing engaging gameplay.&lt;/p&gt;
+
+&lt;p&gt;Read more &lt;a href=&quot;https://channels.theinnovationenterprise.com/articles/datax-presents-the-intersection-of-data-and-creativity-in-gaming&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Apr 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000//gaming%20analytics/data%20platform/2019/04/29/datax-the-intersection.html</link>
+        <guid isPermaLink="true">http://localhost:4000//gaming%20analytics/data%20platform/2019/04/29/datax-the-intersection.html</guid>
+        
+        <category>DataX</category>
+        
+        <category>Gaming Analytics</category>
+        
+        <category>Data Platform</category>
+        
+        
+        <category>Gaming Analytics</category>
+        
+        <category>Data Platform</category>
         
       </item>
     
