@@ -9,7 +9,7 @@ tags: [DataX,Gaming Analytics,Data Platform]
 icon: icon-html
 ---
 
-<img src="{{ site.img_path }}/datax/wba_team-medium.jpg" width="50%" display="block">
+<img src="{{ site.img_path }}/datax/AWS-ReInvent-Badge.png" width="30%" display="block">
 
 
 Analytics is a discipline that relies on managing constraints, while creativity is – by design – an exercise in avoiding constraints. Explore in this session how WB Games has developed a discipline that enables developers, marketers and analysts to work at the speed of creativity.
