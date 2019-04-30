@@ -18,8 +18,9 @@ $(function(){
         <div class="navy-line"></div>
         {% assign url = page.url | url_decode | remove:'/' %}
         {% assign title = url | split: ' ' %}
-        {% for word in title %} {% assign category = word | capitalize %} {% endfor %}
-        <h1>{{ category | join: ' ' }}</h1>
+        {% capture category %}{% for word in title %} {{ word | capitalize | join: ' '}} {% endfor %} {% endcapture %}
+        {% assign category = category}
+        <h1>{{ category }}</h1>
     </div>
 </div>
 <div class="wrapper wrapper-content  animated fadeInRight   ">
