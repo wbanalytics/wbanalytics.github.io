@@ -26,7 +26,7 @@ $(function(){
     <div class="row">
         <ul id="pag-itemContainer" style="list-style:none;">
             {% assign counter = 0 %}
-            {{site.categories}}
+            {{site.categories[category]}}
             {% for post in site.categories[category] %}
             {% assign counter = counter | plus: 1 %}
             <li>
