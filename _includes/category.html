@@ -18,7 +18,7 @@ $(function(){
         <div class="navy-line"></div>
         {% assign url = page.url | url_decode | remove:'/' %}
         {% assign title = url | split: ' ' %}
-        {% capture category %}{% for word in title %} {{ word | capitalize | join: ' '}} {% endfor %} {% endcapture %}
+        {% for word in title %} {% assign category = word | capitalize | join: ' ' %} {% endfor %}
         <h1>{{ category }}</h1>
     </div>
 </div>
@@ -26,9 +26,6 @@ $(function(){
     <div class="row">
         <ul id="pag-itemContainer" style="list-style:none;">
             {% assign counter = 0 %}
-            {{category}}
-            {{site.categories}}
-            {{site.categories[category]}}
             {% for post in site.categories[category] %}
             {% assign counter = counter | plus: 1 %}
             <li>
