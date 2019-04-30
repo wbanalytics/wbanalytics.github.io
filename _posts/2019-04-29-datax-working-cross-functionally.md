@@ -4,7 +4,7 @@ title:  "DataX - Working cross-functionally to bridge the gap between creative a
 date:   2019-04-29
 desc: ""
 keywords: "Spark"
-categories: [Gaming Analytics,Data Platform]
+categories: [Gaming analytics,Data platform]
 tags: [DataX,Gaming Analytics,Data Platform]
 icon: icon-html
 ---
