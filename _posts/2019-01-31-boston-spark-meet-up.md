@@ -4,7 +4,7 @@ title:  "Boston Spark Meet Up"
 date:   2019-01-31
 desc: ""
 keywords: "Spark"
-categories: [Data Platform]
+categories: [Platform]
 tags: [Looker,Spark,Data Platform]
 icon: icon-html
 ---

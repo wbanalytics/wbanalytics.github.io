@@ -4,7 +4,7 @@ title:  "Looker Join Conference"
 date:   2018-10-10
 desc: ""
 keywords: "Looker"
-categories: [Data Platform,Publishing Analytics]
+categories: [Platform,Analytics]
 tags: [Looker,Data Platform,Publishing Analytics]
 icon: icon-html
 ---

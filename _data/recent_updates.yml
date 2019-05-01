@@ -3,11 +3,11 @@
   href: /recent-updates/
 
 # edit following lines to custom your updates page, make sure name is the same as href but capitalized first letter(except HTML)
-- name: Data Platform
-  href: /data%20platform/
+- name: Platform
+  href: /platform/
 
-- name: Publishing Analytics
-  href: /publishing%20analytics/
+- name: Publishing
+  href: /publishing/
 
-- name: Gaming Analytics
-  href: /gaming%20analytics/
+- name: Gaming
+  href: /gaming/
