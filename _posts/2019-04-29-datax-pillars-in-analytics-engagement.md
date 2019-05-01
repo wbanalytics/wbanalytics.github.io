@@ -4,7 +4,7 @@ title:  "DataX - Pillars in Analytics Engagement"
 date:   2019-04-29
 desc: ""
 keywords: "Spark"
-categories: [Analytics]
+categories: [Gaming]
 tags: [DataX,Gaming Analytics]
 icon: icon-html
 ---
