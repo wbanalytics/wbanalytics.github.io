@@ -34,7 +34,6 @@ module.exports = {
             'node_modules/peity/jquery.peity.js',
             'static/js/jPages.js',
             'static/js/js.js',
-            'static/js/search.js'
         ]
     }, {
         name: 'all pages',

@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://localhost:4000/gaming%20analytics/data%20platform/2019/04/29/datax-working-cross-functionally.html</loc>
+        <loc>http://localhost:4000/gaming/platform/2019/04/29/datax-working-cross-functionally.html</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/gaming%20analytics/2019/04/29/datax-pillars-in-analytics-engagement.html</loc>
+        <loc>http://localhost:4000/gaming/2019/04/29/datax-pillars-in-analytics-engagement.html</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/gaming%20analytics/data%20platform/2019/04/29/datax-the-intersection.html</loc>
+        <loc>http://localhost:4000/gaming/platform/2019/04/29/datax-the-intersection.html</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/data%20platform/2019/01/31/boston-spark-meet-up.html</loc>
+        <loc>http://localhost:4000/platform/2019/01/31/boston-spark-meet-up.html</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/data%20platform/2018/11/28/reinvent-extending-analytics.html</loc>
+        <loc>http://localhost:4000/platform/2018/11/28/reinvent-extending-analytics.html</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/data%20platform/publishing%20analytics/2018/10/10/looker-join-conference.html</loc>
+        <loc>http://localhost:4000/platform/publishing/2018/10/10/looker-join-conference.html</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/data%20platform/2018/08/23/aws-redshift-boston.html</loc>
+        <loc>http://localhost:4000/platform/2018/08/23/aws-redshift-boston.html</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/data%20platform/2017/05/17/apachecon-2017.html</loc>
+        <loc>http://localhost:4000/platform/2017/05/17/apachecon-2017.html</loc>
     </url>
 
 
@@ -43,15 +43,11 @@
     </url>
 
     <url>
-        <loc>http://localhost:4000/data%20platform/</loc>
-    </url>
-
-    <url>
         <loc>http://localhost:4000/feed.xml</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/gaming%20analytics/</loc>
+        <loc>http://localhost:4000/gaming/</loc>
     </url>
 
     <url>
@@ -59,7 +55,11 @@
     </url>
 
     <url>
-        <loc>http://localhost:4000/publishing%20analytics/</loc>
+        <loc>http://localhost:4000/platform/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/publishing/</loc>
     </url>
 
     <url>

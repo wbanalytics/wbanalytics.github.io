@@ -5,8 +5,8 @@
     <description>WB Analytics career website</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 May 2019 10:22:06 -0400</pubDate>
-    <lastBuildDate>Wed, 01 May 2019 10:22:06 -0400</lastBuildDate>
+    <pubDate>Thu, 02 May 2019 10:06:46 -0400</pubDate>
+    <lastBuildDate>Thu, 02 May 2019 10:06:46 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -18,8 +18,8 @@
 &lt;p&gt;Read more &lt;a href=&quot;https://www.theinnovationenterprise.com/summits/gaming-analytics-summit-san-francisco-2019/agenda?_ga=2.210624405.1276306666.1556552659-759658737.1555905947&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Apr 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000//gaming%20analytics/data%20platform/2019/04/29/datax-working-cross-functionally.html</link>
-        <guid isPermaLink="true">http://localhost:4000//gaming%20analytics/data%20platform/2019/04/29/datax-working-cross-functionally.html</guid>
+        <link>http://localhost:4000//gaming/platform/2019/04/29/datax-working-cross-functionally.html</link>
+        <guid isPermaLink="true">http://localhost:4000//gaming/platform/2019/04/29/datax-working-cross-functionally.html</guid>
         
         <category>DataX</category>
         
@@ -28,9 +28,9 @@
         <category>Data Platform</category>
         
         
-        <category>Gaming Analytics</category>
+        <category>Gaming</category>
         
-        <category>Data Platform</category>
+        <category>Platform</category>
         
       </item>
     
@@ -43,15 +43,15 @@
 &lt;p&gt;Read more &lt;a href=&quot;https://www.theinnovationenterprise.com/summits/gaming-analytics-summit-san-francisco-2019/agenda?_ga=2.210624405.1276306666.1556552659-759658737.1555905947&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Apr 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000//gaming%20analytics/2019/04/29/datax-pillars-in-analytics-engagement.html</link>
-        <guid isPermaLink="true">http://localhost:4000//gaming%20analytics/2019/04/29/datax-pillars-in-analytics-engagement.html</guid>
+        <link>http://localhost:4000//gaming/2019/04/29/datax-pillars-in-analytics-engagement.html</link>
+        <guid isPermaLink="true">http://localhost:4000//gaming/2019/04/29/datax-pillars-in-analytics-engagement.html</guid>
         
         <category>DataX</category>
         
         <category>Gaming Analytics</category>
         
         
-        <category>Gaming Analytics</category>
+        <category>Gaming</category>
         
       </item>
     
@@ -64,8 +64,8 @@
 &lt;p&gt;Read more &lt;a href=&quot;https://channels.theinnovationenterprise.com/articles/datax-presents-the-intersection-of-data-and-creativity-in-gaming&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Apr 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000//gaming%20analytics/data%20platform/2019/04/29/datax-the-intersection.html</link>
-        <guid isPermaLink="true">http://localhost:4000//gaming%20analytics/data%20platform/2019/04/29/datax-the-intersection.html</guid>
+        <link>http://localhost:4000//gaming/platform/2019/04/29/datax-the-intersection.html</link>
+        <guid isPermaLink="true">http://localhost:4000//gaming/platform/2019/04/29/datax-the-intersection.html</guid>
         
         <category>DataX</category>
         
@@ -74,9 +74,9 @@
         <category>Data Platform</category>
         
         
-        <category>Gaming Analytics</category>
+        <category>Gaming</category>
         
-        <category>Data Platform</category>
+        <category>Platform</category>
         
       </item>
     
@@ -89,8 +89,8 @@
 &lt;p&gt;Read more &lt;a href=&quot;https://www.meetup.com/Boston-Apache-Spark-User-Group/events/257173292/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 31 Jan 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000//data%20platform/2019/01/31/boston-spark-meet-up.html</link>
-        <guid isPermaLink="true">http://localhost:4000//data%20platform/2019/01/31/boston-spark-meet-up.html</guid>
+        <link>http://localhost:4000//platform/2019/01/31/boston-spark-meet-up.html</link>
+        <guid isPermaLink="true">http://localhost:4000//platform/2019/01/31/boston-spark-meet-up.html</guid>
         
         <category>Looker</category>
         
@@ -99,7 +99,7 @@
         <category>Data Platform</category>
         
         
-        <category>Data Platform</category>
+        <category>Platform</category>
         
       </item>
     
@@ -112,15 +112,15 @@
 &lt;p&gt;Read more &lt;a href=&quot;https://www.slideshare.net/AmazonWebServices/extending-analytics-beyond-the-data-warehouse-ft-warner-bros-analytics-ant301-aws-reinvent-2018&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 28 Nov 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000//data%20platform/2018/11/28/reinvent-extending-analytics.html</link>
-        <guid isPermaLink="true">http://localhost:4000//data%20platform/2018/11/28/reinvent-extending-analytics.html</guid>
+        <link>http://localhost:4000//platform/2018/11/28/reinvent-extending-analytics.html</link>
+        <guid isPermaLink="true">http://localhost:4000//platform/2018/11/28/reinvent-extending-analytics.html</guid>
         
         <category>AWS</category>
         
         <category>Data Platform</category>
         
         
-        <category>Data Platform</category>
+        <category>Platform</category>
         
       </item>
     
@@ -133,8 +133,8 @@
 &lt;p&gt;Read more &lt;a href=&quot;https://join2018.splashthat.com/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Oct 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000//data%20platform/publishing%20analytics/2018/10/10/looker-join-conference.html</link>
-        <guid isPermaLink="true">http://localhost:4000//data%20platform/publishing%20analytics/2018/10/10/looker-join-conference.html</guid>
+        <link>http://localhost:4000//platform/publishing/2018/10/10/looker-join-conference.html</link>
+        <guid isPermaLink="true">http://localhost:4000//platform/publishing/2018/10/10/looker-join-conference.html</guid>
         
         <category>Looker</category>
         
@@ -143,9 +143,9 @@
         <category>Publishing Analytics</category>
         
         
-        <category>Data Platform</category>
+        <category>Platform</category>
         
-        <category>Publishing Analytics</category>
+        <category>Publishing</category>
         
       </item>
     
@@ -158,8 +158,8 @@
 &lt;p&gt;Read more &lt;a href=&quot;https://aws.amazon.com/events/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 Aug 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000//data%20platform/2018/08/23/aws-redshift-boston.html</link>
-        <guid isPermaLink="true">http://localhost:4000//data%20platform/2018/08/23/aws-redshift-boston.html</guid>
+        <link>http://localhost:4000//platform/2018/08/23/aws-redshift-boston.html</link>
+        <guid isPermaLink="true">http://localhost:4000//platform/2018/08/23/aws-redshift-boston.html</guid>
         
         <category>AWS</category>
         
@@ -168,7 +168,7 @@
         <category>Data Platform</category>
         
         
-        <category>Data Platform</category>
+        <category>Platform</category>
         
       </item>
     
@@ -181,8 +181,8 @@
 &lt;p&gt;Read more &lt;a href=&quot;https://apachebigdata2017.sched.com/event/9zzA/evolution-of-an-apache-spark-architecture-for-processing-game-data-nick-afshartous-warner-brothers-interactive-entertainment-wbie&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 17 May 2017 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000//data%20platform/2017/05/17/apachecon-2017.html</link>
-        <guid isPermaLink="true">http://localhost:4000//data%20platform/2017/05/17/apachecon-2017.html</guid>
+        <link>http://localhost:4000//platform/2017/05/17/apachecon-2017.html</link>
+        <guid isPermaLink="true">http://localhost:4000//platform/2017/05/17/apachecon-2017.html</guid>
         
         <category>Apache</category>
         
@@ -191,7 +191,7 @@
         <category>Data Platform</category>
         
         
-        <category>Data Platform</category>
+        <category>Platform</category>
         
       </item>
     
